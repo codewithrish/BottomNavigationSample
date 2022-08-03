@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BottomNavigationSample</string>
+    <string name="home">Home</string>
+    <string name="favourites">Favourites</string>
+    <string name="notifications">Notifications</string>
+    <string name="profile">Profile</string>
+
+    <string name="label_home">CodeWithRish Home</string>
+    <string name="label_favourites">CodeWithRish Favourites</string>
+    <string name="label_notifications">CodeWithRish Notifications</string>
+    <string name="label_profile">CodeWithRish Profile</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
